@@ -8,5 +8,7 @@ Movie Info Service:
 Input: MovieId
 Output: Movie full details
 
+Added all details
+
 Thanks
 
