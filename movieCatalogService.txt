@@ -4,5 +4,9 @@ Input : UserId
 
 Output: Movie List with details.
 
+Movie Info Service:
+Input: MovieId
+Output: Movie full details
+
 Thanks
 
