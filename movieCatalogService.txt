@@ -1,3 +1,6 @@
 
 Movie Catalog Service :
 Input : UserId
+
+Output: Movie List with details.
+
